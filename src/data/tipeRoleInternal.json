@@ -1,0 +1,51 @@
+[
+  {
+    "key": "tipe-role-sales-internal",
+    "label": "Sales",
+    "value": "sales",
+    "icon": "BallpenIcon",
+    "icon-color": "info"
+  },
+  {
+    "key": "tipe-role-admin-internal",
+    "label": "Administrator",
+    "value": "admin",
+    "icon": "SettingsIcon",
+    "icon-color": "primary"
+  },
+  {
+    "key": "tipe-role-super-internal",
+    "label": "Super Admin",
+    "value": "super",
+    "icon": "ToolIcon",
+    "icon-color": "success"
+  },
+  {
+    "key": "tipe-role-finance-internal",
+    "label": "Finance",
+    "value": "finance",
+    "icon": "ReportMoneyIcon",
+    "icon-color": "secondary"
+  },
+  {
+    "key": "tipe-role-verifier-internal",
+    "label": "Verifikator",
+    "value": "verifier",
+    "icon": "ZoomCheckIcon",
+    "icon-color": "warning"
+  },
+  {
+    "key": "tipe-role-director-internal",
+    "label": "Kepala Record Center",
+    "value": "director",
+    "icon": "ChairDirectorIcon",
+    "icon-color": "dark"
+  },
+  {
+    "key": "tipe-role-legal-internal",
+    "label": "Corporate Legal",
+    "value": "legal",
+    "icon": "GavelIcon",
+    "icon-color": "danger"
+  }
+]

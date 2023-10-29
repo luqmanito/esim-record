@@ -1,0 +1,12 @@
+[
+  {
+    "key": "status-aktif",
+    "label": "Aktif",
+    "value": 1
+  },
+  {
+    "key": "status-tidak-aktif",
+    "label": "Tidak Aktif",
+    "value": 0
+  }
+]

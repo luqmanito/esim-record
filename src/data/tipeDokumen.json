@@ -1,0 +1,13 @@
+[
+    {
+      "key": "tipe-dokumen-1",
+      "label": "Opsional",
+      "value": "optional"
+    },
+    {
+      "key": "tipe-dokumen-2",
+      "label": "Perintah",
+      "value": "mandatory"
+    }
+]
+  

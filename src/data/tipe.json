@@ -1,0 +1,22 @@
+[
+  {
+    "key": 1,
+    "label": "Penyimpanan",
+    "value": "penyimpanan"
+  },
+  {
+    "key": 2,
+    "label": "Digitalisasi",
+    "value": "digitalisasi"
+  },
+  {
+    "key": 3,
+    "label": "Pemusnahan",
+    "value": "pemusnahan"
+  },
+  {
+    "key": 4,
+    "label": "Tipe Box",
+    "value": "tipe_box"
+  }
+]

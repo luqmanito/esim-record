@@ -1,0 +1,18 @@
+[
+    {
+      "key": 1,
+      "label": "Belum Terisi",
+      "value": "empty"
+    },
+    {
+      "key": 2,
+      "label": "Sudah Di Booking",
+      "value": "booked"
+    },
+    {
+      "key": 3,
+      "label": "Sudah Terisi",
+      "value": "filled"
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+[
+  {
+    "key": "status-invited",
+    "label": "Invited",
+    "value": "invited"
+  },
+  {
+    "key": "status-joined",
+    "label": "Joined",
+    "value": "joined"
+  },
+  {
+    "key": "status-declined",
+    "label": "Declined",
+    "value": "declined"
+  }
+]

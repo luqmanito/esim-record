@@ -1,0 +1,18 @@
+[
+    {
+      "key": "tipe-layanan-dokumen-1",
+      "label": "Penyimpanan",
+      "value": "penyimpanan"
+    },
+    {
+      "key": "tipe-layanan-dokumen-2",
+      "label": "Digitalisasi",
+      "value": "digitalisasi"
+    },
+    {
+        "key": "tipe-layanan-dokumen-3",
+        "label": "Pemusnahan",
+        "value": "pemusnahan"
+      }
+]
+  

@@ -1,0 +1,17 @@
+[
+  {
+    "key": "status-user-aktif",
+    "label": "Aktif",
+    "value": 1
+  },
+  {
+    "key": "status-user-belum-terverifikasi",
+    "label": "Belum Terverifikasi",
+    "value": 0
+  },
+  {
+    "key": "status-user-tidak-aktif",
+    "label": "Tidak Aktif",
+    "value": 2
+  }
+]

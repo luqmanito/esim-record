@@ -1,0 +1,11 @@
+FROM node:16-slim
+
+WORKDIR /usr/src/app
+
+COPY ["package.json", "package-lock.json*", "npm-shrinkwrap.json*", "./"]
+COPY . .
+
+EXPOSE 8080
+
+RUN npm install
+CMD ["npm", "run", "dev"]

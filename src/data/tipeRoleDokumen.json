@@ -1,0 +1,13 @@
+[
+    {
+      "key": "tipe-role-dokumen-1",
+      "label": "Customer",
+      "value": "customer"
+    },
+    {
+      "key": "tipe-role-dokumen-2",
+      "label": "Admin",
+      "value": "admin"
+    }
+]
+  
